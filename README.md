@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.rocketseat.com.br/me/fartur"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fartur&type=card" width="280" alt="Fabricio Puliafico Artur's Rocket ID"/></a>
+
+
+<iframe src="https://badges.parchment.com/public/assertions/X_ILW9lMSqSi-xykV1i8vQ?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167" title="Badge: Postman API Fundamentals Student Expert" style="width: 370px; height: 167px; border: 0px;"></iframe>
