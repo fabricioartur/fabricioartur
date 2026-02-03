@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Pre-Sales Engineer · Solution Architecture · AI-focused</b>
-</p>
-
-<p align="center">
+  <b>Pre-Sales Engineer · Solution Architecture · AI-focused</b><br/>
   Bridging technology, business and execution
 </p>
 
@@ -20,7 +17,7 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="360" />
 </p>
 
-I work at the intersection of **technology and business**, helping organizations transform complex technical capabilities into clear, scalable and viable solutions.
+I work at the intersection of **technology and business**, helping organizations turn complex technical capabilities into clear, scalable and viable solutions.
 
 Currently working as a **Pre-Sales Engineer at Motorola Solutions**, supporting enterprise and government customers in mission-critical environments.
 
@@ -52,7 +49,7 @@ Currently working as a **Pre-Sales Engineer at Motorola Solutions**, supporting 
 - AI studies and tooling  
 - Notes and small utilities  
 
-This repository is a **workspace**, not a polished showcase.
+This is a **working space**, not a polished showcase.
 
 ---
 
@@ -70,20 +67,70 @@ This repository is a **workspace**, not a polished showcase.
 
 ---
 
-### 🏅 Badges & learning
+## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://app.rocketseat.com.br/me/fartur">
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fartur&type=card" width="280" alt="Fabricio Puliafico Artur Rocket ID" />
-  </a>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
 </p>
+
+<p align="center">
+  Continuous learning focused on <b>Cloud, AI and modern engineering workflows</b>
+</p>
+
+---
+
+### ☁️ Google Cloud & Digital Transformation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" height="48" />
+</p>
+
+- Trust and Security with Google Cloud  
+- Innovating with Google Cloud Artificial Intelligence  
+- Google Cloud Computing Foundations: Cloud Computing Fundamentals  
+- Scaling with Google Cloud Operations  
+- Modernize Infrastructure and Applications with Google Cloud  
+- Exploring Data Transformation with Google Cloud  
+- Digital Transformation with Google Cloud  
+
+---
+
+### 🤖 Artificial Intelligence & Generative AI (Microsoft)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" height="48" />
+</p>
+
+- Introduction to generative AI and agents  
+- Overview of AI concepts  
+- Plan and prepare to develop AI solutions on Azure  
+- Introduction to Azure OpenAI managed identity authentication with Python  
+
+---
+
+### 🧠 AI Productivity & Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</p>
+
+- Introduction to GitHub Copilot  
+- Introduction to prompt engineering with GitHub Copilot  
+- Responsible AI with GitHub Copilot  
+
+---
+
+### ☁️ Cloud Fundamentals
+
+- Describe cloud computing  
+- Introduction to Azure Cloud Shell  
 
 ---
 
 ### 🔧 Tools & stack (high level)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,python,js,docker,cloud,ai" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,python,js,docker,azure,gcp" />
 </p>
 
 ---
@@ -92,7 +139,7 @@ This repository is a **workspace**, not a polished showcase.
 
 <p align="center">
   <a href="https://github.com/fabricioartur">GitHub</a> · 
-  <a href="https://www.linkedin.com/in/fabriciopuliaficoartur">LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/fartur">LinkedIn</a> · 
   <a href="https://fabricioartur.com">Website</a>
 </p>
 
