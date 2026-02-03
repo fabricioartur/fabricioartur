@@ -1,41 +1,103 @@
-## Hi there 👋
+## Hi, I'm Fabrício 👋
 
-<!--
-**fabricioartur/fabricioartur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Pre-Sales Engineer · Solution Architecture · AI-focused</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Bridging technology, business and execution
+</p>
 
-<a href="https://app.rocketseat.com.br/me/fartur"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fartur&type=card" width="280" alt="Fabricio Puliafico Artur's Rocket ID"/></a>
+---
 
+### 🧭 What I do
 
-{
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/X_ILW9lMSqSi-xykV1i8vQ",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "lBxoJSw6cqWzwubV",
-    "hashed": true,
-    "identity": "sha256$de7f83f15a1c82d8f7c484c646c20a11237d388fb5926dde7b4be7c2c694f316"
-  },
-  "badge": "https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w",
-  "issuedOn": "2026-01-30T17:54:56.469Z",
-  "image": {
-    "id": "https://badges.parchment.com/public/assertions/X_ILW9lMSqSi-xykV1i8vQ/image"
-  },
-  "narrative": "This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection",
-  "revoked": false,
-  "verification": {
-    "type": "HostedBadge"
-  }
-}
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="360" />
+</p>
+
+I work at the intersection of **technology and business**, helping organizations transform complex technical capabilities into clear, scalable and viable solutions.
+
+Currently working as a **Pre-Sales Engineer at Motorola Solutions**, supporting enterprise and government customers in mission-critical environments.
+
+---
+
+### 🧠 Focus areas
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" />
+</p>
+
+- Pre-Sales Engineering  
+- Solution Architecture  
+- Mission-critical systems  
+- Networks & communications  
+- AI-enabled workflows  
+- Technical storytelling for decision makers  
+
+---
+
+### 🧪 What you’ll find here
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360" />
+</p>
+
+- Technical experiments  
+- Proofs of concept  
+- AI studies and tooling  
+- Notes and small utilities  
+
+This repository is a **workspace**, not a polished showcase.
+
+---
+
+### 🚀 Learning & direction (2025–2026)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="360" />
+</p>
+
+- Applied Artificial Intelligence  
+- Agent-based systems  
+- AI integration into products  
+- Cloud & scalable architectures  
+- Open source contributions  
+
+---
+
+### 🏅 Badges & learning
+
+<p align="center">
+  <a href="https://app.rocketseat.com.br/me/fartur">
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fartur&type=card" width="280" alt="Fabricio Puliafico Artur Rocket ID" />
+  </a>
+</p>
+
+---
+
+### 🔧 Tools & stack (high level)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,python,js,docker,cloud,ai" />
+</p>
+
+---
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/fabricioartur">GitHub</a> · 
+  <a href="https://www.linkedin.com/in/fabriciopuliaficoartur">LinkedIn</a> · 
+  <a href="https://fabricioartur.com">Website</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Clarity over complexity. Impact over noise.</i>
+</p>
