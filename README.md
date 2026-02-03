@@ -71,7 +71,7 @@ The following represents **hands-on exposure, architectural responsibility or de
 #### Languages, Scripting & Runtime Literacy
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,bash,c,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql" />
 </p>
 
 #### API, Integration & Automation
@@ -92,38 +92,39 @@ The following represents **hands-on exposure, architectural responsibility or de
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka" />
 </p>
 
-#### AI, LLMs & Applied Intelligence
-
-<p align="left">
-  <a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" /></a>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 ---
 
-### Certifications & structured learning
+### AI, LLMs & Applied Intelligence Ecosystem
 
-Focused on **AI platforms, cloud infrastructure and enterprise readiness**.
+<p align="left">
+  <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-OpenAI-000000?style=flat&logo=openai" /></a>
+  <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat&logo=google" /></a>
+  <a href="https://www.perplexity.ai"><img src="https://img.shields.io/badge/Perplexity-AI-1E1E1E?style=flat" /></a>
+  <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok-xAI-000000?style=flat" /></a>
+  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-Anthropic-191919?style=flat" /></a>
+  <a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-AI-0033FF?style=flat" /></a>
+  <a href="https://www.alibaba.com"><img src="https://img.shields.io/badge/Qwen-Alibaba-FF6A00?style=flat" /></a>
+  <a href="https://copilot.microsoft.com"><img src="https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=flat&logo=microsoft" /></a>
+  <a href="https://ai.meta.com"><img src="https://img.shields.io/badge/Meta-AI-0467DF?style=flat&logo=meta" /></a>
+  <a href="https://manus.im"><img src="https://img.shields.io/badge/Manus-AI-111111?style=flat" /></a>
+  <a href="https://kimi.ai"><img src="https://img.shields.io/badge/Kimi-AI-222222?style=flat" /></a>
+  <a href="https://ernie.baidu.com"><img src="https://img.shields.io/badge/ERNIE-Baidu-2932E1?style=flat" /></a>
+  <a href="https://mistral.ai"><img src="https://img.shields.io/badge/Mistral-AI-FF4B00?style=flat" /></a>
+  <a href="https://z.ai"><img src="https://img.shields.io/badge/Z.ai-AI-000000?style=flat" /></a>
+  <a href="https://monica.im"><img src="https://img.shields.io/badge/Monica-AI-5A67D8?style=flat" /></a>
+</p>
 
-**Artificial Intelligence**
-- OpenAI & DeepLearning.AI: Prompt Engineering, ChatGPT API, RAG  
-- Azure OpenAI: managed identity authentication (Python)  
-- Generative AI and agent-based systems  
-- Databricks Generative AI Fundamentals  
+#### Vibe Coding & AI-native Builders
 
-**Cloud Platforms**
-- Google Cloud: AI Innovation, Infrastructure Modernization, Trust & Security  
-- Microsoft Azure: AI Fundamentals, AI Solutions Planning  
-- AWS: Cloud Practitioner & Generative AI  
-
-**Security & Compliance**
-- Fortinet Certified Associate & Fundamentals in Cybersecurity  
-- Cloud Security Professional  
-- GDPR / HIPAA / LGPD compliance frameworks  
-
-**API & Platforms**
-- Postman API Fundamentals  
-- Enterprise authentication (OAuth, SSO, SAML, managed identity)  
+<p align="left">
+  <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-AI-111111?style=flat" /></a>
+  <a href="https://base44.com"><img src="https://img.shields.io/badge/Base44-AI-111111?style=flat" /></a>
+  <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0-Vercel-000000?style=flat&logo=vercel" /></a>
+  <a href="https://replit.com"><img src="https://img.shields.io/badge/Replit-IDE-FF6A00?style=flat&logo=replit" /></a>
+  <a href="https://tempo.build"><img src="https://img.shields.io/badge/Tempo.build-AI-222222?style=flat" /></a>
+  <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-AI-000000?style=flat" /></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-Google-FFCA28?style=flat&logo=firebase" /></a>
+</p>
 
 ---
 
