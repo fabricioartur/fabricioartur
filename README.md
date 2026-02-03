@@ -5,7 +5,7 @@ Applied AI, multi-cloud platforms and high-stakes technical decision-making
 
 <p align="left">
   <a href="https://github.com/fabricioartur">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/fabriciopuliaficoartur">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/fartur">LinkedIn</a> ·
   <a href="https://fabricioartur.com">Website</a>
 </p>
 
@@ -53,77 +53,80 @@ It is a **technical surface** containing:
 
 ---
 
-### Technical surface area
+## Technical surface area
 
 The following represents **hands-on exposure, architectural responsibility or deep technical literacy** accumulated across enterprise environments.
 
-#### Cloud, Platforms & Infrastructure
+---
+
+### Cloud, Platforms & Infrastructure
 
 <p align="left">
-  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" /></a>
-  <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-</p>
-
-#### Languages, Scripting & Runtime Literacy
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql" />
-</p>
-
-#### API, Integration & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,graphql,nginx" />
-</p>
-
-#### DevOps, Delivery & Observability
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,terraform,ansible,grafana,datadog" />
-</p>
-
-#### Data, Messaging & Distributed Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,cloudflare,nginx,openshift,openstack" />
 </p>
 
 ---
 
-### AI, LLMs & Applied Intelligence Ecosystem
+### Languages, Scripting & Runtime Literacy
 
 <p align="left">
-  <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-OpenAI-000000?style=flat&logo=openai" /></a>
-  <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=flat&logo=google" /></a>
-  <a href="https://www.perplexity.ai"><img src="https://img.shields.io/badge/Perplexity-AI-1E1E1E?style=flat" /></a>
-  <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok-xAI-000000?style=flat" /></a>
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-Anthropic-191919?style=flat" /></a>
-  <a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-AI-0033FF?style=flat" /></a>
-  <a href="https://www.alibaba.com"><img src="https://img.shields.io/badge/Qwen-Alibaba-FF6A00?style=flat" /></a>
-  <a href="https://copilot.microsoft.com"><img src="https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=flat&logo=microsoft" /></a>
-  <a href="https://ai.meta.com"><img src="https://img.shields.io/badge/Meta-AI-0467DF?style=flat&logo=meta" /></a>
-  <a href="https://manus.im"><img src="https://img.shields.io/badge/Manus-AI-111111?style=flat" /></a>
-  <a href="https://kimi.ai"><img src="https://img.shields.io/badge/Kimi-AI-222222?style=flat" /></a>
-  <a href="https://ernie.baidu.com"><img src="https://img.shields.io/badge/ERNIE-Baidu-2932E1?style=flat" /></a>
-  <a href="https://mistral.ai"><img src="https://img.shields.io/badge/Mistral-AI-FF4B00?style=flat" /></a>
-  <a href="https://z.ai"><img src="https://img.shields.io/badge/Z.ai-AI-000000?style=flat" /></a>
-  <a href="https://monica.im"><img src="https://img.shields.io/badge/Monica-AI-5A67D8?style=flat" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql,nodejs" />
 </p>
 
-#### Vibe Coding & AI-native Builders
+---
+
+### DevOps, Delivery & Observability
 
 <p align="left">
-  <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-AI-111111?style=flat" /></a>
-  <a href="https://base44.com"><img src="https://img.shields.io/badge/Base44-AI-111111?style=flat" /></a>
-  <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0-Vercel-000000?style=flat&logo=vercel" /></a>
-  <a href="https://replit.com"><img src="https://img.shields.io/badge/Replit-IDE-FF6A00?style=flat&logo=replit" /></a>
-  <a href="https://tempo.build"><img src="https://img.shields.io/badge/Tempo.build-AI-222222?style=flat" /></a>
-  <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-AI-000000?style=flat" /></a>
-  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-Google-FFCA28?style=flat&logo=firebase" /></a>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,grafana,prometheus,elasticsearch,postman" />
+</p>
+
+---
+
+### Data, Messaging & Distributed Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,rabbitmq" />
+</p>
+
+---
+
+### AI, ML & Applied Intelligence
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,fastapi,flask,django" />
+</p>
+
+---
+
+### Frontend & Web (functional fluency)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,nuxtjs,htmx" />
+</p>
+
+---
+
+### Tooling, Editors & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,vscodium,vim,neovim,pycharm,npm,pnpm,bun" />
+</p>
+
+---
+
+### OS, Distros & Environments
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,mint,redhat,windows" />
+</p>
+
+---
+
+### Knowledge, Product & Documentation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,md,figma" />
 </p>
 
 ---
