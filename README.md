@@ -72,6 +72,22 @@ The following represents **hands-on exposure, architectural responsibility or de
 
 ---
 
+## AI Adoption Playbooks
+
+These repositories document **practical decision frameworks, integration patterns and lessons learned**
+from adopting Artificial Intelligence in real-world enterprise environments.
+
+- **[Enterprise AI Adoption Playbook](https://github.com/fabricioartur/enterprise-ai-adoption-playbook)**  
+  Decision frameworks for adopting AI under organizational, architectural and regulatory constraints.
+
+- **[LLM Integration Patterns](https://github.com/fabricioartur/llm-integration-patterns)**  
+  Proven patterns for integrating LLMs into existing systems, APIs and workflows.
+
+- **[AI Failures and Lessons Learned](https://github.com/fabricioartur/ai-failures-and-lessons)**  
+  Recurring failure modes observed during AI adoption initiatives, anonymized and distilled.
+
+---
+
 ### Cloud, Platforms & Infrastructure
 
 <p align="left">
