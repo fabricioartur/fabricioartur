@@ -1,7 +1,7 @@
 ## Hi, I'm Fabrício 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120" />
 </p>
 
 <p align="center">
@@ -11,22 +11,22 @@
 
 ---
 
-### 🧭 What I do
+## 🧭 What I do
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="360" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="160" />
 </p>
 
-I work at the intersection of **technology and business**, helping organizations turn complex technical capabilities into clear, scalable and viable solutions.
+I work at the intersection of **technology and business**, helping organizations translate complex technical capabilities into clear, scalable and viable solutions.
 
-Currently working as a **Pre-Sales Engineer at Motorola Solutions**, supporting enterprise and government customers in mission-critical environments.
+Currently working as a **Pre-Sales Engineer at Zetz**, supporting enterprise and government customers in mission-critical environments.
 
 ---
 
-### 🧠 Focus areas
+## 🧠 Focus areas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="160" />
 </p>
 
 - Pre-Sales Engineering  
@@ -38,10 +38,10 @@ Currently working as a **Pre-Sales Engineer at Motorola Solutions**, supporting 
 
 ---
 
-### 🧪 What you’ll find here
+## 🧪 What you’ll find here
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Test%20tube/3D/test_tube_3d.png" width="160" />
 </p>
 
 - Technical experiments  
@@ -53,10 +53,10 @@ This is a **working space**, not a polished showcase.
 
 ---
 
-### 🚀 Learning & direction (2025–2026)
+## 🚀 Learning & direction (2025–2026)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="360" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="160" />
 </p>
 
 - Applied Artificial Intelligence  
@@ -70,7 +70,7 @@ This is a **working space**, not a polished showcase.
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medal/3D/medal_3d.png" width="160" />
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ This is a **working space**, not a polished showcase.
 
 ---
 
-### 🔧 Tools & stack (high level)
+## 🔧 Tools & stack (high level)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,python,js,docker,azure,gcp" />
@@ -135,11 +135,11 @@ This is a **working space**, not a polished showcase.
 
 ---
 
-### 🔗 Connect
+## 🔗 Connect
 
 <p align="center">
   <a href="https://github.com/fabricioartur">GitHub</a> · 
-  <a href="https://www.linkedin.com/in/fartur">LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/fabriciopuliaficoartur">LinkedIn</a> · 
   <a href="https://fabricioartur.com">Website</a>
 </p>
 
