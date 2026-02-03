@@ -1,7 +1,7 @@
 ## Fabrício Artur
 
-Pre-Sales Engineer | Solution Architecture | Artificial Intelligence  
-Bridging technology, business and execution
+Pre-Sales Engineer · Solution Architecture · Applied AI  
+Operating at the intersection of engineering, systems and business
 
 <p align="left">
   <a href="https://github.com/fabricioartur">GitHub</a> ·
@@ -11,45 +11,52 @@ Bridging technology, business and execution
 
 ---
 
-### Profile
+### Context
 
-I work at the intersection of **engineering, architecture and business**, operating across complex, high-stakes and mission-critical environments.
+I work with complex technical systems where **architecture, constraints and decision-making** matter more than frameworks.
 
-My focus is not tools.  
-My focus is **decision making under technical constraints**.
-
----
-
-### Core domains
-
-- Pre-Sales Engineering at enterprise and government scale  
-- Solution & Systems Architecture  
-- Mission-critical platforms  
-- Networks, communications and infrastructure  
-- AI-enabled systems and workflows  
-- Executive-level technical storytelling  
+My background sits between **engineering execution** and **strategic solution design**, often in environments where failure is not an option.
 
 ---
 
-### What this repository represents
+### What I actually do
 
-This is **not** a portfolio.  
-This is a **working surface**.
+- Design and validate complex solutions across multiple domains  
+- Translate business and operational needs into technical architectures  
+- Support high-stakes decisions involving risk, scale and trade-offs  
+- Act as a technical counterpart for executives, engineers and partners  
 
-You will find:
+This role is commonly labeled *Pre-Sales Engineering*, but in practice it is **systems thinking applied to real-world constraints**.
+
+---
+
+### Domains of experience
+
+- Large-scale solution and systems architecture  
+- Mission-critical platforms and communications  
+- Networking, infrastructure and distributed systems  
+- AI-enabled workflows and automation  
+- Cross-functional technical leadership  
+
+---
+
+### This repository
+
+This is not a showcase.
+
+It is a **working surface** containing:
 - architectural explorations
-- technical experiments
 - proofs of concept
-- AI studies
-- reference material
+- technical notes
+- experiments with AI, tooling and systems
 
 ---
 
 ### Technical surface area
 
-The following represents **hands-on exposure**, architectural responsibility or deep technical literacy accumulated over time.
+Below is a **non-exhaustive map** of platforms, tools and technologies I have worked with, evaluated or architected around over time.
 
-#### Platforms, Cloud & Infrastructure
+#### Cloud, Platforms & Infrastructure
 
 <p align="left">
   <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" /></a>
@@ -63,10 +70,10 @@ The following represents **hands-on exposure**, architectural responsibility or 
 #### Languages & Runtime Literacy
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,go,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,bash,c,cpp" />
 </p>
 
-#### Dev, Ops & Delivery
+#### Delivery, Automation & Ops
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,terraform,ansible" />
@@ -81,12 +88,12 @@ The following represents **hands-on exposure**, architectural responsibility or 
 #### AI, Automation & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,openai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,openai" />
 </p>
 
 ---
 
-### Certifications & formal learning
+### Certifications & structured learning
 
 Focused on **Cloud, AI and modern engineering workflows**.
 
@@ -98,22 +105,21 @@ Focused on **Cloud, AI and modern engineering workflows**.
 - Data Transformation & Operations  
 
 **Microsoft / Azure**
-- Generative AI and Agents  
+- Generative AI and agent-based systems  
 - Azure OpenAI managed identity (Python)  
 - AI solution planning on Azure  
-- GitHub Copilot & Responsible AI  
+- GitHub Copilot and Responsible AI  
 
 ---
 
-### Direction (2025–2026)
+### Current direction
 
-- Applied Artificial Intelligence in production systems  
-- Agent-based architectures  
-- AI-assisted engineering workflows  
-- Large-scale solution design  
-- Open-source contribution where it creates leverage  
+- Applied AI in real systems, not demos  
+- Agent-based architectures and workflows  
+- AI-assisted engineering and decision support  
+- Scalable solution design under constraints  
 
 ---
 
 Clarity over complexity.  
-Impact over noise.
+Execution over noise.
