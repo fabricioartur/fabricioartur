@@ -118,7 +118,7 @@ The following represents **hands-on exposure, architectural responsibility or de
 ### OS, Distros & Environments
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,mint,redhat,windows" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,mint,redhat,windows,apple" />
 </p>
 
 ---
