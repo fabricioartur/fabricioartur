@@ -40,6 +40,19 @@ My work spans **AI-enabled platforms**, **API-driven ecosystems** and **multi-cl
 
 ---
 
+### Achievements (selected)
+
+These are **outcomes**, not titles.
+
+- Enabled **enterprise AI adoption** across regulated environments using Azure OpenAI, Google Cloud AI and API-first architectures  
+- Supported **$1M+ expansion revenue** through technical advisory, platform enablement and adoption strategy  
+- Achieved **95%+ retention** across large enterprise and government accounts in high-stakes environments  
+- Designed and validated **AI-ready, low-latency architectures** for edge and distributed systems  
+- Led **100+ technical workshops and enablement sessions** for engineers, architects and executives  
+- Acted as technical counterpart in **C-level decision-making** involving risk, compliance and scale  
+
+---
+
 ### This repository
 
 This is not a portfolio.
