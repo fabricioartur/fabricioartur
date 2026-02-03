@@ -1,12 +1,11 @@
-## Hi, I'm Fabrício 👋
+## Hi, I'm Fabricio Puliafico Artur 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=90&section=header&text=Pre-Sales%20Engineer%20·%20Solution%20Architecture%20·%20AI&fontSize=22&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Pre-Sales Engineer · Solution Architecture · AI-focused</b><br/>
-  Bridging technology, business and execution
+  Bridging <b>technology</b>, <b>business</b> and <b>execution</b>
 </p>
 
 ---
@@ -14,19 +13,19 @@
 ## 🧭 What I do
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="160" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="140" />
 </p>
 
 I work at the intersection of **technology and business**, helping organizations translate complex technical capabilities into clear, scalable and viable solutions.
 
-Currently working as a **Pre-Sales Engineer at Zetz**, supporting enterprise and government customers in mission-critical environments.
+Currently working as a **Pre-Sales Engineer**, supporting enterprise and government customers in **mission-critical environments**.
 
 ---
 
 ## 🧠 Focus areas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="160" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="140" />
 </p>
 
 - Pre-Sales Engineering  
@@ -41,7 +40,7 @@ Currently working as a **Pre-Sales Engineer at Zetz**, supporting enterprise and
 ## 🧪 What you’ll find here
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Test%20tube/3D/test_tube_3d.png" width="160" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Test%20tube/3D/test_tube_3d.png" width="140" />
 </p>
 
 - Technical experiments  
@@ -56,7 +55,7 @@ This is a **working space**, not a polished showcase.
 ## 🚀 Learning & direction (2025–2026)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="160" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="140" />
 </p>
 
 - Applied Artificial Intelligence  
@@ -70,7 +69,7 @@ This is a **working space**, not a polished showcase.
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medal/3D/medal_3d.png" width="160" />
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medal/3D/medal_3d.png" width="140" />
 </p>
 
 <p align="center">
@@ -131,6 +130,14 @@ This is a **working space**, not a polished showcase.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,python,js,docker,azure,gcp" />
+</p>
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabricioartur&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
