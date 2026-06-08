@@ -1,7 +1,7 @@
 ## Fabrício Artur
 
-AI Success Engineering · Solution Architecture · Enterprise Systems  
-Applied AI, multi-cloud platforms and high-stakes technical decision-making
+Pre-Sales Engineering · Solution Architecture · Agentic AI  
+Enterprise AI, cloud platforms, security and technical adoption
 
 <p align="left">
   <a href="https://github.com/fabricioartur">GitHub</a> ·
@@ -13,23 +13,42 @@ Applied AI, multi-cloud platforms and high-stakes technical decision-making
 
 ### Profile
 
-I operate at the intersection of **engineering, systems architecture and enterprise adoption**, supporting organizations where scale, security and reliability are non-negotiable.
+I work at the intersection of **pre-sales engineering, solution architecture and applied AI**, helping organizations evaluate, adopt and operationalize technology where scale, security and reliability matter.
 
-My work spans **AI-enabled platforms**, **API-driven ecosystems** and **multi-cloud infrastructure**, with a strong focus on real-world constraints, integration patterns and value realization.
+My work spans **agentic AI**, **enterprise platforms**, **API-driven ecosystems** and **multi-cloud infrastructure**, with a strong focus on real-world constraints, integration patterns and measurable value.
 
 ---
 
-### What I actually work on
+### What I Work On
 
-- Enterprise AI adoption and platform enablement  
-- Solution and systems architecture across cloud and edge  
+- Enterprise AI adoption, agentic workflows and platform enablement  
+- Solution and systems architecture across cloud, edge and hybrid environments  
 - API integration, authentication and platform security  
 - Technical decision support for executives and engineering teams  
-- Adoption strategy, enablement and measurable value realization  
+- Pre-sales discovery, technical validation and value realization  
 
 ---
 
-### Domains of operation
+### Featured Work
+
+- **[Pre-Sales Document Assistant](https://github.com/fabricioartur/pre-sales-document-assistant)**  
+  Command-line assistant for analyzing RFPs, RFIs and tender documents for pre-sales teams.
+
+- **[Enterprise AI Adoption Playbook](https://github.com/fabricioartur/enterprise-ai-adoption-playbook)**  
+  Decision frameworks for adopting AI under organizational, architectural and regulatory constraints.
+
+- **[LLM Integration Patterns](https://github.com/fabricioartur/llm-integration-patterns)**  
+  Practical patterns for integrating LLMs into existing systems, APIs and workflows.
+
+- **[AI Failures and Lessons Learned](https://github.com/fabricioartur/ai-failures-and-lessons)**  
+  Recurring failure modes observed during AI adoption initiatives, anonymized and distilled.
+
+- **[GenAI Ops Automation](https://github.com/fabricioartur/genai-ops-automation)**  
+  Decision-oriented AI assistant for automating operational workflows in food delivery platforms.
+
+---
+
+### Domains of Operation
 
 - Applied Artificial Intelligence (LLMs, agents, RAG)  
 - Multi-cloud and hybrid architectures  
@@ -40,7 +59,7 @@ My work spans **AI-enabled platforms**, **API-driven ecosystems** and **multi-cl
 
 ---
 
-### Achievements (selected)
+### Selected Outcomes
 
 These are **outcomes**, not titles.
 
@@ -55,9 +74,8 @@ These are **outcomes**, not titles.
 
 ### This repository
 
-This is not a portfolio.
+This is my technical workspace for applied AI, solution architecture, pre-sales automation and enterprise adoption patterns. It contains:
 
-It is a **technical surface** containing:
 - architectural explorations  
 - proofs of concept  
 - AI experiments and integrations  
@@ -69,22 +87,6 @@ It is a **technical surface** containing:
 ## Technical surface area
 
 The following represents **hands-on exposure, architectural responsibility or deep technical literacy** accumulated across enterprise environments.
-
----
-
-## AI Adoption Playbooks
-
-These repositories document **practical decision frameworks, integration patterns and lessons learned**
-from adopting Artificial Intelligence in real-world enterprise environments.
-
-- **[Enterprise AI Adoption Playbook](https://github.com/fabricioartur/enterprise-ai-adoption-playbook)**  
-  Decision frameworks for adopting AI under organizational, architectural and regulatory constraints.
-
-- **[LLM Integration Patterns](https://github.com/fabricioartur/llm-integration-patterns)**  
-  Proven patterns for integrating LLMs into existing systems, APIs and workflows.
-
-- **[AI Failures and Lessons Learned](https://github.com/fabricioartur/ai-failures-and-lessons)**  
-  Recurring failure modes observed during AI adoption initiatives, anonymized and distilled.
 
 ---
 
@@ -163,7 +165,7 @@ from adopting Artificial Intelligence in real-world enterprise environments.
 ### Current direction
 
 - Applied AI in enterprise production environments  
-- Agent-based systems and workflows  
+- Agentic AI systems and workflows  
 - AI-assisted platform adoption and enablement  
 - Scalable architectures under regulatory and operational constraints  
 
