@@ -9,6 +9,8 @@ Enterprise AI, cloud platforms, security and technical adoption
   <a href="https://fabricioartur.com">Website</a>
 </p>
 
+> **Currently targeting:** SE Pre-Sales and Solutions Architecture roles at AI-native and AI-first companies.
+
 ---
 
 ### Profile
@@ -19,43 +21,25 @@ My work spans **agentic AI**, **enterprise platforms**, **API-driven ecosystems*
 
 ---
 
-### What I Work On
+### What I Build
 
-- Enterprise AI adoption, agentic workflows and platform enablement  
-- Solution and systems architecture across cloud, edge and hybrid environments  
-- API integration, authentication and platform security  
-- Technical decision support for executives and engineering teams  
-- Pre-sales discovery, technical validation and value realization  
+- **[Solutions Engineer Toolkit](https://github.com/fabricioartur/solutions-engineer-toolkit)**  
+  7 AI-powered modules (RAG, LangGraph, CrewAI, OpenAI Agents SDK, LangChain, Evals, Observability) that empower SEs to deliver results no human SE can achieve alone.
 
----
-
-### Featured Work
+- **[Discovery Copilot](https://github.com/fabricioartur/Discovery-Copilot)**  
+  Turns raw customer discovery notes into 11 structured pre-sales reports in under 60 seconds — powered by the OpenAI Responses API.
 
 - **[Pre-Sales Document Assistant](https://github.com/fabricioartur/pre-sales-document-assistant)**  
-  Command-line assistant for analyzing RFPs, RFIs and tender documents for pre-sales teams.
+  Analyzes RFPs, RFIs and tender documents for pre-sales teams using the OpenAI Responses API with retry logic and reasoning model support.
 
 - **[Enterprise AI Adoption Playbook](https://github.com/fabricioartur/enterprise-ai-adoption-playbook)**  
   Decision frameworks for adopting AI under organizational, architectural and regulatory constraints.
 
 - **[LLM Integration Patterns](https://github.com/fabricioartur/llm-integration-patterns)**  
-  Practical patterns for integrating LLMs into existing systems, APIs and workflows.
+  Practical patterns for integrating LLMs into real systems — stateless calls, RAG, agents, failure modes.
 
 - **[AI Failures and Lessons Learned](https://github.com/fabricioartur/ai-failures-and-lessons)**  
   Recurring failure modes observed during AI adoption initiatives, anonymized and distilled.
-
-- **[GenAI Ops Automation](https://github.com/fabricioartur/genai-ops-automation)**  
-  Decision-oriented AI assistant for automating operational workflows in food delivery platforms.
-
----
-
-### Domains of Operation
-
-- Applied Artificial Intelligence (LLMs, agents, RAG)  
-- Multi-cloud and hybrid architectures  
-- Edge computing and low-latency systems  
-- Enterprise security and compliance  
-- API-first platforms and integrations  
-- Technical customer success at scale  
 
 ---
 
@@ -72,102 +56,39 @@ These are **outcomes**, not titles.
 
 ---
 
-### This repository
+### Technical Surface Area
 
-This is my technical workspace for applied AI, solution architecture, pre-sales automation and enterprise adoption patterns. It contains:
-
-- architectural explorations  
-- proofs of concept  
-- AI experiments and integrations  
-- reference implementations  
-- technical notes  
-
----
-
-## Technical surface area
-
-The following represents **hands-on exposure, architectural responsibility or deep technical literacy** accumulated across enterprise environments.
-
----
-
-### Cloud, Platforms & Infrastructure
+**AI & Agents**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,cloudflare,nginx,openshift,openstack" />
+  <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,fastapi,flask" />
 </p>
 
----
+OpenAI API · LangGraph · CrewAI · LangChain · ChromaDB · RAG · OpenAI Agents SDK
 
-### Languages, Scripting & Runtime Literacy
+**Cloud & Infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform" />
 </p>
 
----
-
-### DevOps, Delivery & Observability
+**Languages & APIs**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,grafana,prometheus,elasticsearch,postman" />
+  <img src="https://skillicons.dev/icons?i=python,ts,bash,sql,nodejs" />
 </p>
 
----
-
-### Data, Messaging & Distributed Systems
+**Observability & DevOps**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana,prometheus,elasticsearch" />
 </p>
 
----
-
-### AI, ML & Applied Intelligence
+**Data & Messaging**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,fastapi,flask,django" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
 </p>
-
----
-
-### Frontend & Web (functional fluency)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,nuxtjs,htmx" />
-</p>
-
----
-
-### Tooling, Editors & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,vscodium,vim,neovim,pycharm,npm,pnpm,bun" />
-</p>
-
----
-
-### OS, Distros & Environments
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,mint,redhat,windows,apple" />
-</p>
-
----
-
-### Knowledge, Product & Documentation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=notion,obsidian,md,figma" />
-</p>
-
----
-
-### Current direction
-
-- Applied AI in enterprise production environments  
-- Agentic AI systems and workflows  
-- AI-assisted platform adoption and enablement  
-- Scalable architectures under regulatory and operational constraints  
 
 ---
 
