@@ -21,6 +21,13 @@ My work spans **agentic AI**, **enterprise platforms**, **API-driven ecosystems*
 
 ---
 
+### Published Work
+
+**[Manual do Engenheiro de Pré-Vendas](https://www.amazon.com.br/dp/B0H2791DC3)** — Um Guia de Bolso para Engenharia de Soluções  
+Available on [Amazon US](https://www.amazon.com/dp/B0H2FX2YXD) (print) · [Amazon Brazil](https://www.amazon.com.br/dp/B0H2791DC3) (Kindle)
+
+---
+
 ### What I Build
 
 - **[Solutions Engineer Toolkit](https://github.com/fabricioartur/solutions-engineer-toolkit)**  
