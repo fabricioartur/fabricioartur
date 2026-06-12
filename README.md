@@ -32,14 +32,6 @@ My work spans **agentic AI**, **enterprise platforms**, **API-driven ecosystems*
 - **[Pre-Sales Document Assistant](https://github.com/fabricioartur/pre-sales-document-assistant)**  
   Analyzes RFPs, RFIs and tender documents for pre-sales teams using the OpenAI Responses API with retry logic and reasoning model support.
 
-- **[Enterprise AI Adoption Playbook](https://github.com/fabricioartur/enterprise-ai-adoption-playbook)**  
-  Decision frameworks for adopting AI under organizational, architectural and regulatory constraints.
-
-- **[LLM Integration Patterns](https://github.com/fabricioartur/llm-integration-patterns)**  
-  Practical patterns for integrating LLMs into real systems — stateless calls, RAG, agents, failure modes.
-
-- **[AI Failures and Lessons Learned](https://github.com/fabricioartur/ai-failures-and-lessons)**  
-  Recurring failure modes observed during AI adoption initiatives, anonymized and distilled.
 
 ---
 
