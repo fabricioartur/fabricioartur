@@ -39,6 +39,9 @@ Available on [Amazon US](https://www.amazon.com/dp/B0H2FX2YXD) (print) · [Amazo
 - **[Pre-Sales Document Assistant](https://github.com/fabricioartur/pre-sales-document-assistant)**  
   Analyzes RFPs, RFIs and tender documents for pre-sales teams using the OpenAI Responses API with retry logic and reasoning model support.
 
+- **[Codex Excalidraw Skill](https://github.com/fabricioartur/codex-excalidraw-skill)**  
+  A Codex skill that generates editable Excalidraw diagrams from natural language — producing shareable `.excalidraw` scene files, SVG previews, and web-ready outputs instead of static images.
+
 
 ---
 
